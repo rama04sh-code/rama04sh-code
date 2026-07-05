@@ -4,7 +4,7 @@
 
 I am a passionate Web Developer with a Bachelor's degree in Computer Science. My main focus is Front-End Development, where I enjoy turning ideas and designs into responsive, user-friendly web applications. I also have experience with Back-End development using PHP and databases, and I'm continuously improving my back-end skills while building real-world projects.
 
-<img align="right" alt="Coding" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="360" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
 ---
 
