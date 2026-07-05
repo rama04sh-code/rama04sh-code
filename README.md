@@ -45,7 +45,7 @@ I am a passionate Web Developer with a Bachelor's degree in Computer Science. My
 
 ## 🌐 Connect with Me
 
-- 💼 LinkedIn: YOUR_LINKEDIN
+- 💼 LinkedIn: [YOUR_LINKEDIN](https://www.linkedin.com/in/rama-sharar-2a7469310?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
 - 💻 GitHub: https://github.com/YOUR_USERNAME
 - 🎨 Frontend Mentor: YOUR_FRONTEND_MENTOR
 - 🧩 LeetCode: YOUR_LEETCODE
