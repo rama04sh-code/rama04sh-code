@@ -1,7 +1,6 @@
 # Hi there 👋, I'm Rama Abu Sharar!
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat)
-
+![Profile Views](https://komarev.com/ghpvc/?username=rama04sh-code&label=Profile%20Views&color=0e75b6&style=flat)
 ### Web Developer | Front-End Focused 💻
 
 I am a passionate Web Developer with a Bachelor's degree in Computer Science. My main focus is Front-End Development, where I enjoy turning ideas and designs into responsive, user-friendly web applications. I also have experience with Back-End development using PHP and databases, and I'm continuously improving my back-end skills while building real-world projects.
