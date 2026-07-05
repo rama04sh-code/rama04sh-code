@@ -4,7 +4,7 @@
 
 I am a passionate Web Developer with a Bachelor's degree in Computer Science. My main focus is Front-End Development, where I enjoy turning ideas and designs into responsive, user-friendly web applications. I also have experience with Back-End development using PHP and databases, and I'm continuously improving my back-end skills while building real-world projects.
 
-<img align="right" alt="Coding" width="350" src="YOUR-GIF-LINK-HERE">
+<img align="right" alt="Coding" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ---
 
@@ -46,10 +46,10 @@ I am a passionate Web Developer with a Bachelor's degree in Computer Science. My
 ## 🌐 Connect with Me
 
 - 💼 LinkedIn: [YOUR_LINKEDIN](https://www.linkedin.com/in/rama-sharar-2a7469310?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
-- 💻 GitHub: https://github.com/YOUR_USERNAME
-- 🎨 Frontend Mentor: YOUR_FRONTEND_MENTOR
-- 🧩 LeetCode: YOUR_LEETCODE
-
+- 💻 GitHub: [https://github.com/YOUR_USERNAME](https://github.com/rama04sh-code)
+- 🎨 Frontend Mentor: [YOUR_FRONTEND_MENTOR](https://www.frontendmentor.io/profile/shararrama727-lang)
+- 🧩 LeetCode: [YOUR_LEETCODE
+](https://leetcode.com/u/rama_sharar/)
 ---
 
 ## 💻 Skill Proficiency
