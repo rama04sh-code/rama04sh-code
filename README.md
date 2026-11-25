@@ -1,122 +1,151 @@
 # Hi there 👋, I'm Rama Abu Sharar!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rama04sh-code&label=Profile%20Views&color=0e75b6&style=flat)
-### Web Developer | 💻
 
-I am a passionate Web Developer with a Bachelor's degree in Computer Science. My main focus is Front-End Development, where I enjoy turning ideas and designs into responsive, user-friendly web applications. I also have experience with Back-End development using PHP and databases, and I'm continuously improving my back-end skills while building real-world projects.
+### 💻 Computer Science Graduate | Full-Stack Development Trainee
 
-<img align="right" alt="Coding" width="360" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif">
+Computer Science graduate and Full-Stack Development Trainee at **Double Support**, with hands-on experience building web applications and working with modern web technologies.
+
+I enjoy developing both frontend and backend solutions, working with databases, and turning ideas into functional applications. I'm continuously expanding my technical skills through practical training, independent projects, and self-learning.
+
+<img align="right" alt="Coding" width="340" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif">
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🎓 Bachelor's Degree in Computer Science – Zarqa University
-- 💻 Web Developer with a strong focus on Front-End Development
-- 🌱 Continuously improving my Back-End development skills
-- 🎯 Passionate about building responsive and user-friendly websites
-- 🚀 Building projects and completing Frontend Mentor challenges
-- 🧩 Solving programming problems on LeetCode
-- 📫 Feel free to connect with me on LinkedIn
+- 🎓 Bachelor's Degree in Computer Science – Zarqa Private University (2026).
+- 💼 Currently training as a Full-Stack Developer at Double Support.
+- 🌐 Interested in Frontend and Backend Web Development.
+- 💻 Working with PHP, Laravel, React, JavaScript, and Python.
+- 🗄️ Interested in database development and management.
+- 🚀 Building practical projects and improving my development skills.
+- 🧩 Practicing problem-solving through LeetCode.
+- 📚 Continuously learning through freeCodeCamp and other learning platforms.
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 Technical Skills
+
+**Frontend Development**
 
 <p>
-<img src="https://skillicons.dev/icons?i=html" />
-<img src="https://skillicons.dev/icons?i=css" />
-<img src="https://skillicons.dev/icons?i=javascript" />
-<img src="https://skillicons.dev/icons?i=php" />
-<img src="https://skillicons.dev/icons?i=github" />
-<img src="https://skillicons.dev/icons?i=vscode" />
-<img src="https://go-skill-icons.vercel.app/api/icons?i=oracle" height="48" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,jquery" />
+</p>
+
+**Backend Development**
+
+<p>
+<img src="https://skillicons.dev/icons?i=php,laravel,python" />
+</p>
+
+**Databases**
+
+<p>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,postgresql,sqlite,oracle" />
+</p>
+
+**Tools & Technologies**
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vite,docker" />
 </p>
 
 ---
 
-## 🌱 Currently Learning
+## 💼 Training & Experience
 
-- PHP
-- Advanced JavaScript
-- Responsive Web Design
-- Clean Code Practices
+**Full-Stack Development Trainee – Double Support**
 
----
+*October 2026 – Present | Amman, Jordan*
 
-## 🌐 Connect with Me
+- Developing web applications through practical full-stack training.
+- Working with PHP, Laravel, React, JavaScript, Bootstrap, and jQuery.
+- Practicing backend development and database integration.
+- Working with SQLite, XAMPP, and modern development tools.
 
-- 💼 LinkedIn: [YOUR_LINKEDIN](https://www.linkedin.com/in/rama-sharar-2a7469310?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
-- 💻 GitHub: [https://github.com/YOUR_USERNAME](https://github.com/rama04sh-code)
-- 🎨 Frontend Mentor: [YOUR_FRONTEND_MENTOR](https://www.frontendmentor.io/profile/shararrama727-lang)
-- 🧩 LeetCode: [YOUR_LEETCODE
-](https://leetcode.com/u/rama_sharar/)
----
-
-## 💻 Skill Proficiency
-
-<table>
-<tr>
-<td width="150"><b>HTML</b></td>
-<td>
-
-![95%](https://progress-bar.xyz/95/?title=&width=350&color=00C853)
-
-</td>
-</tr>
-
-<tr>
-<td><b>CSS</b></td>
-<td>
-
-![90%](https://progress-bar.xyz/90/?title=&width=350&color=2196F3)
-
-</td>
-</tr>
-
-<tr>
-<td><b>PHP</b></td>
-<td>
-
-![80%](https://progress-bar.xyz/80/?title=&width=350&color=9C27B0)
-
-</td>
-</tr>
-
-<tr>
-<td><b>Java</b></td>
-<td>
-
-![58%](https://progress-bar.xyz/58/?title=&width=350&color=FB8C00)
-
-</td>
-</tr>
-
-<tr>
-<td><b>JavaScript</b></td>
-<td>
-
-![50%](https://progress-bar.xyz/50/?title=&width=350&color=FDD835)
-
-</td>
-</tr>
-
-<tr>
-<td><b>Oracle Database</b></td>
-<td>
-
-![40%](https://progress-bar.xyz/40/?title=&width=350&color=E53935)
-
-</td>
-</tr>
-
-</table>
 ---
 
 ## ⭐ Featured Projects
 
-- 🎓 Graduate Tracking System (Bachelor's Graduation Project)
-- 🏨 Hotel Booking Confirmation
-- 📱 Social Links Profile
-- 🎨 Frontend Mentor Challenges
-- 💻 More projects coming soon...
+### 🌱 Happy Farmer – Smart Farm Management & Plant Disease Diagnosis
+
+An agricultural web platform that combines farm management features with AI-assisted plant disease diagnosis.
+
+- Developed dashboards for farm and crop management.
+- Implemented irrigation rules, notifications, agricultural readings, and yield estimation.
+- Integrated a MobileNetV2 model for classifying 15 plant disease categories.
+- Achieved 98.33% test accuracy for the classification model.
+
+**Technologies:** React, Vite, FastAPI, Python, PostgreSQL, REST APIs.
+
+[View Project](https://github.com/rama04sh-code/Happy-Farmer-Final)
+
+### 🎓 Graduate Tracking System (GTS)
+
+A university graduation project designed to support graduate tracking and management.
+
+- Contributed to frontend development.
+- Worked with HTML, CSS, JavaScript, and Bootstrap.
+- Developed PHP MVC views.
+- Collaborated using Git and GitHub.
+
+[View Project](https://github.com/rama04sh-code/GTS-System)
+
+### 📚 Educational Platform – Web Application
+
+A web application developed during practical training at Double Support.
+
+- Implemented authentication and registration.
+- Worked on course management and student pages.
+- Developed dynamic forms using Laravel Blade.
+- Integrated the application with SQLite.
+
+**Technologies:** PHP, Laravel, Blade, Bootstrap, JavaScript, SQLite, XAMPP.
+
+---
+
+## 📜 Certifications & Courses
+
+- JavaScript Specialist – Orange Jordan (2026).
+- CSS Development – Orange Jordan (2026).
+- HTML Development – Orange Jordan (2026).
+- Python Essentials 1 – Cisco (2026).
+- Data Science Essentials with Python – Cisco.
+- Front-End Web Development – Al Hussein Technical University.
+- Front-End Certificate – The Hope International.
+- Oracle Database 12c: SQL/PLSQL – The Hope International.
+
+---
+
+## 🌱 Continuous Learning
+
+- Full-Stack Web Development.
+- JavaScript and React Development.
+- PHP and Laravel.
+- Python and Problem Solving.
+- Database Management and SQL.
+- Responsive Web Design.
+- Writing clean and maintainable code.
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=rama04sh-code&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rama04sh-code&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+- 💼 LinkedIn: [Rama Abu Sharar](https://www.linkedin.com/in/rama-sharar-2a7469310/)
+- 💻 GitHub: [rama04sh-code](https://github.com/rama04sh-code)
+- 🎨 Frontend Mentor: [My Profile](https://www.frontendmentor.io/profile/shararrama727-lang)
+- 🧩 LeetCode: [My Profile](https://leetcode.com/u/rama_sharar/)
+
+---
+
+⭐ *Always learning, building, and improving.*
